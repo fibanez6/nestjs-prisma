@@ -1,5 +1,8 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="./logos/nestjs-logo.svg" width="100" alt="Nest Logo"/></a>
+  <a href="https://www.typescriptlang.org/" target="blank"><img src="./logos/typescript_logo.png" width="100" alt="Typescript logo"/></a>
+  <a href="https://nodejs.org/en/" target="blank"><img src="./logos/node-logo.webp" width="100" alt="Nodejs logo"/></a>
+  <a href="https://www.prisma.io/" target="blank"><img src="./logos/prisma-logo.webp" width="100" alt="Prisma logo"/></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
@@ -30,6 +33,7 @@
 ## Stack
 
 * [@nestjs 9.0.0](https://github.com/nestjs/nest)
+* [Typescript 4.7.4](https://www.typescriptlang.org/)
 * [Prisma 4.4.0](https://www.prisma.io/) - [from Nest website](https://docs.nestjs.com/recipes/prisma)
    
    Prisma is an open-source ORM for Node.js and TypeScript. It is used as an alternative to writing plain SQL, or using another database access tool such as SQL query builders (like knex.js) or ORMs (like TypeORM and Sequelize). Prisma currently supports PostgreSQL, MySQL, SQL Server, SQLite, MongoDB and CockroachDB.
